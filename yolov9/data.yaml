@@ -1,0 +1,7 @@
+train: /kaggle/input/bee-dataset/data_Train_YOLO/train/images
+val: /kaggle/input/bee-dataset/data_Train_YOLO/val/images
+test: /kaggle/input/bee-dataset/data_Train_YOLO/test/images
+
+nc: 1
+names: ['Bee']
+
